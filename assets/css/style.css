@@ -308,3 +308,7 @@ footer {
 		width: 25%;
 	}
 }
+#articles img {
+	height: auto;
+	width: 100%;
+}
