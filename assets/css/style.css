@@ -161,7 +161,6 @@ nav {
 	margin: 4px 10px;
 }
 .section-title p {
-	margin: 0;
 	margin: -15px 0 15px 0;
 	font-size: 36px;
 	font-weight: 700;
@@ -203,7 +202,6 @@ nav {
 	display: flex;
 }
 .contact .info-box .social-links a {
-	font-size: 18px;
 	font-size: 18px;
 	color: #fff;
 	line-height: 1;
@@ -303,7 +301,7 @@ footer {
 	font-size: 12px;
 }
 
-@media (min-width: 1320) {
+@media (min-width: 1320px) {
 	#articles img {
 		width: 25%;
 	}
